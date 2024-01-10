@@ -133,7 +133,7 @@ nav{
 }
 
 .header-list-item a{
-    color: #3B4F19;
+    color: #FFF;
     text-decoration: none;
     display: block;
     transition: color 0.25s ease;
@@ -141,6 +141,7 @@ nav{
 
 .header-list-item a span{
     transition: color 0.25s ease;
+    color: #FFF;
 }
 
 .header-list-item:hover a,.header-list-item:hover a span {
